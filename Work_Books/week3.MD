@@ -28,11 +28,13 @@ This document outlines a series of SQL tasks designed to analyze data from the w
 ## SQL Features Utilized
 
 - **Aggregation Functions:** Using `COUNT`, `MAX`, `MIN`, `AVG`, `SUM` for calculations.
+!(image9.png)
 - **Filtering Data:** Applying `WHERE` conditions to refine results.
 - **Sorting:** Using `ORDER BY` to organize data alphabetically or numerically.
 - **Pattern Matching:** Using `LIKE` to identify patterns in data.
 - **Subqueries:** Employing nested queries to derive results dynamically.
 - **Data Joining:** Joining tables (e.g., `city`, `country`) to extract meaningful insights.
+!(image10.png)
 
 ## Real-World Applications
 
