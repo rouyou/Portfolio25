@@ -13,6 +13,8 @@ This workbook provides an in-depth exploration of key topics essential for under
 - **Outcome:**
   - Gained hands-on experience with NoSQL databases and their capabilities in handling unstructured/semi-structured data.
 
+![NOsql ](image11.png)
+
 ### Explore Data Analytics in Azure
 
 - **Lab Overview:**
@@ -26,6 +28,8 @@ This workbook provides an in-depth exploration of key topics essential for under
   2. **Data Ingestion:** Load data into a Lakehouse from various sources.
   3. **Query Execution:** Use SQL analytics endpoints to query the ingested data.
   4. **Data Visualization:** Create visualizations to derive insights from the data.
+
+![lab](image12.png)
 
 - **Outcome:**
   - Successfully demonstrated an end-to-end data analytics pipeline in Azure.
