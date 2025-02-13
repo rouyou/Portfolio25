@@ -69,18 +69,38 @@ Create a dynamic and interactive sales dashboard using 5 Pivot Tables, each prov
 **Visual 2: Total Units Sold by Product (Column Chart)**
 
 *   Based on Pivot Table 2.
+  
+
+  ![pivot2l ](image11.png)
+
+  
 
 **Visual 3: Average Profit Margin by Product (Pie Chart)**
 
 *   Based on Pivot Table 3.
+  
+
+  ![pivot3l ](image1.4.png)
+  
+  
 
 **Visual 4: Total Revenue by Product Over Time (Line Chart)**
 
 *   Based on Pivot Table 4.
+  
+
+  ![pivot4l ](image1.3.png)
+
+  
 
 **Visual 5: Units Sold by Country and Product (Stacked Column Chart)**
 
 *   Based on Pivot Table 5.
+  
+
+  ![pivot5l ](image1.2.png)
+
+  
 
 ### Advanced Features
 
