@@ -16,15 +16,26 @@ This workbook provides hands-on experience with essential data handling and prog
 1. **Data Cleaning:**
    - Null values can significantly impact analysis and must be handled appropriately (removal, filling, or replacement).
 
+![Null ](image13.png)
+
+
 2. **Group Operations:**
    - Grouping data by regions or categories allows for deeper insights into trends and comparisons.
+
+![Groupl](image14.png)
+
 
 3. **Statistical Analysis:**
    - Calculating averages, maxima, minima, and counts helps summarize large datasets effectively.
 
+![count ](image16.png)
+
 4. **Visualization:**
    - **Histograms and Heatmaps:** Provide intuitive ways to understand data distributions and relationships.
    - **Bar Plots:** Highlight regional disparities and trends.
+
+![visual ](image17.png)
+
 
 5. **Practical Application:**
    - The GDP dataset serves as a real-world example for practicing data manipulation and analysis techniques.
