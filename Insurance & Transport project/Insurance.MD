@@ -31,13 +31,21 @@
   2. **Missing Values:**
      - Checked for missing values using `df.isnull().sum()`.
      - Filled missing categorical values with 'UNKNOWN' using `fillna()`.
+
+![missing](image18.png)
+
   3. **Categorical Conversion:**
      - Converted relevant columns (e.g., `weather_condition`, `crash_type`) to categorical data types for efficient analysis.
 
 ## Slide 4: Crash Types Distribution
 
 - **Visualization:** Bar Chart showing the distribution of crash types.
+
+![crash](image19.png)
+
 - **Insights:** Example: "Rear-end collisions account for the majority of crashes."
+
+![heat](image20.png)
 
 ```python
 crash_type_counts = df['crash_type'].value_counts()
