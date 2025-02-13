@@ -21,6 +21,9 @@
 ### Visual:
 - **Bar Chart**: Moving average of count of category by gender.
 
+  ![customer ](image21.png)
+  
+
 ### Insights:
 - Discuss the preferences of male and female customers across different categories like clothing, footwear, accessories, and outerwear.
 - Highlight which categories are more popular among each gender.
@@ -44,6 +47,9 @@
 - **Line Graph**: Trends across categories.
 - **Scatter Plot**: Item purchased by payment method.
 
+  ![scatter](image22.png)
+  
+
 ### Insights:
 - Discuss the overall trends in different categories.
 - Explore how review ratings and previous purchases influence shopping trends.
@@ -66,6 +72,8 @@
 
 ### Visual:
 - **Heatmap**: Shopping trends by location.
+
+  ![heat ](image23.png)
 
 ### Insights:
 - Analyse how shopping trends vary by geographical location.
