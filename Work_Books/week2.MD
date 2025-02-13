@@ -12,17 +12,17 @@ This document summarizes the application of data visualization tools (Tableau an
 1. **Bar Chart: Percentage Change**
    - **Description:** Displays the percentage change in job roles across industries.
    - **Insight:** Helps identify growing or declining sectors.
-   ![Percentage Change Bar Chart](screenshots_week1/percentage_change_bar_chart.png)
+   
 
 2. **UK Map: Key City Locations Impacted**
    - **Description:** Highlights cities with significant changes in job roles.
    - **Insight:** Provides geographical insights into regional impacts.
-   ![UK Map](screenshots_week1/uk_map.png)
+   ![UK Map](image5.png)
 
 3. **Chart: Sum of Percentage Change by Industry Over Cities**
    - **Description:** Aggregates percentage changes across industries for each city.
    - **Insight:** Identifies cities with the most dynamic job markets.
-   ![Industry Change Chart](screenshots_week1/industry_change_chart.png)
+   ![Industry Change Chart](image6.png)
 
 ## Spotify Data Analysis
 
